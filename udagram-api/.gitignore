@@ -32,9 +32,11 @@ postgres_dev/
 logfile
 
 .DS_Store
+aws/
 Thumbs.db
 UserInterfaceState.xcuserstate
-node_modules
+node_modules/
+awscli-bundle/
 venv/
 .env
 # Elastic Beanstalk Files
